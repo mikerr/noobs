@@ -1,3 +1,8 @@
+What's this then ?
+
+A fork of the RPi NOOBS ssytem to use its fast booting web browser 
+
+
 # NOOBS (New Out of Box Software)
 #### An easy Operating System installer for the Raspberry Pi
 
